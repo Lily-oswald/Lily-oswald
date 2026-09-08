@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Lily-oswald
-- 👀 I’m interested in software engineering and data analytics
-- 🌱 I’m currently studying Computer Science at the University of Alabama
-- 💞️ I’m looking to collaborate on women in STEM
+- 👀 I’m interested in data analytics and predicitive modeling. 
+- 🌱 I am a senior Computer Science student at the University of Alabama
 - 📫 How to reach me loswald@crimson[.]ua.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a member of Alpha Chi Omega at the University of Alabama
